@@ -7,7 +7,7 @@
   - 1.- Design the best Infrastructure possible for the Customer request
   - 2.- Implement the infrastructure with IaC automated by pipelines
 
-- Please clone the code create a branch with your name and push your work. Think you are working with a repo in your company we will look at how clean is your code and commits, so make sure you dont push all the code once, push it along the way as you are working in the proyect.
+- Please clone the code create a branch with your name and push your work. Think you are working with a repo in your company we will look at how clean is your code and commits, so make sure you dont push all the code once, push it along the way as you are working in the proyect. Only pull requests!!
 
 ### Infrastructure
 - Comment the Infrastructure you are proposing for this marketplace with the different components and services.
